@@ -3,7 +3,7 @@
 ## About Me
 I'm a data enthusiast, and aspiring data scientist and Machine learning/AI Engineer based in Nairobi, Kenya. I'm passionate about leveraging data to drive insights and make informed decisions.
 
-While my expertise lies in data science and AI, I'm eager to explore new technologies to expand my skill set.
+While my expertise lies in data science and AI, I'm eager to explore new technologies like web3 to expand my skill set.
 
 ### What I'm Currently Working On
 
