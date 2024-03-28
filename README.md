@@ -3,7 +3,7 @@
 ## About Me
 I'm a data enthusiast, and aspiring data scientist and Machine learning/AI Engineer based in Nairobi, Kenya. I'm passionate about leveraging data to drive insights and make informed decisions.
 
-While my expertise lies in data science and AI, I'm eager to explore new technologies like Web3 and expand my skill set.
+While my expertise lies in data science and AI, I'm eager to explore new technologies to expand my skill set.
 
 ### What I'm Currently Working On
 
@@ -13,7 +13,6 @@ While my expertise lies in data science and AI, I'm eager to explore new technol
 
 📱 Building cross-platform mobile apps with Dart and Flutter to bring innovative ideas to life and enhance user experiences.
 
-🌐 Diving into Web3 technology to understand its potential applications in blockchain and decentralized applications (dApps).
 
 ## Programming languages 
 - Python
@@ -39,8 +38,6 @@ Here are some of my notable projects:
   
 - Non-Technical Ambassador at ICP Hub Kenya - Bridged the gap between technical aspects of blockchain technology and the broader community.
 
-
-
 ## Education
 
 - Bachelor of Science in Statistics and Programming from Kenyatta University - Expected graduation in December 2024.
@@ -48,9 +45,9 @@ Here are some of my notable projects:
 - KCB Data Science and AI Training Program -  Currently participating in a comprehensive training program covering various aspects of artificial intelligence, machine learning, and deep learning.
 
 ## Get In Touch
-📧 Email: [Your Email Address](mailto:risperndirangu7@gmail.com)
+📧 Email: [risperndirangu7@gmail.com](mailto:risperndirangu7@gmail.com)
 
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/risper-ndirangu/)
+🔗 LinkedIn: [https://www.linkedin.com/in/risper-ndirangu/](https://www.linkedin.com/in/risper-ndirangu/)
 
 
 Let's connect and discuss fascinating opportunities at the intersection of data science, AI, mobile development, and Web3!
