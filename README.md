@@ -1,7 +1,7 @@
 # Hi there, I'm Risper Ndirangu! 👋
 
 ## About Me
-I'm a data enthusiast, data scientist and aspiring Machine learning/AI Engineer based in Nairobi, Kenya. I'm passionate about leveraging data to drive insights and make informed decisions.
+I'm a data enthusiast, data scientist, and aspiring Machine learning/AI Engineer based in Nairobi, Kenya. I'm passionate about leveraging data to drive insights and make informed decisions.
 
 While my expertise lies in data science and AI, I'm eager to explore new technologies like web3 to expand my skill set.
 
@@ -16,8 +16,8 @@ While my expertise lies in data science and AI, I'm eager to explore new technol
 - Python
 - R
 - SQL
-- dart(beginner)
-- Motoko(beginner)
+- dart
+- Motoko
 
 ## Projects
 Here are some of my notable projects:
