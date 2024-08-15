@@ -23,7 +23,7 @@ Here are some of my notable projects:
    
 3. [NLP Prediction model](https://github.com/Risper8/NLP-Skin-Disease) -  Developed a model using sentence transformers to predict skin diseases and associated symptoms based on user input.
 
-4. [Skin Cancer Image Classification](https://github.com/Risper8/Skin-Cancer-Prediction) - fine-tuned EfficientNetB0 pretrained model for skin cancer classification, achieving 85% accuracy for cancer type prediction and 87% for severity (malignant vs. benign).
+4. [Skin Cancer Image Classification](https://github.com/Risper8/Skin-Cancer-Prediction) - fine-tuned EfficientNetB0 pretrained model for skin cancer classification, achieving 86% accuracy for cancer type prediction and 92% for severity (malignant vs. benign).
    
 5. [Women in Data Science (WiDS) Datathon](https://www.kaggle.com/code/risperndirangu/wids-datathon) - Participated in the WiDS Datathon focused on addressing healthcare inequity, particularly in the timely diagnosis and treatment of metastatic cancer. Utilized Python and machine learning techniques for data cleaning, analysis, and visualization.
 6.  [Weather Prediction](https://www.kaggle.com/code/risperndirangu/weather-prediction) - Analyzed historical weather data using Python to identify patterns and trends, and visualize climate changes over time.
