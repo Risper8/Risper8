@@ -25,15 +25,7 @@ Here are some of my notable projects:
 
 4. [Skin Cancer Image Classification](https://github.com/Risper8/Skin-Cancer-Prediction) - fine-tuned EfficientNetB0 pretrained model for skin cancer classification, achieving 86% accuracy for cancer type prediction and 92% for severity (malignant vs. benign).
    
-5. [Women in Data Science (WiDS) Datathon](https://www.kaggle.com/code/risperndirangu/wids-datathon) - Participated in the WiDS Datathon focused on addressing healthcare inequity, particularly in the timely diagnosis and treatment of metastatic cancer. Utilized Python and machine learning techniques for data cleaning, analysis, and visualization.
-6.  [Weather Prediction](https://www.kaggle.com/code/risperndirangu/weather-prediction) - Analyzed historical weather data using Python to identify patterns and trends, and visualize climate changes over time.
-
-## Experience
-
-- Data Scientist and Market Researcher Intern at AICE - Leveraged TensorFlow and PyTorch for skin cancer and gender classification, built an NLP disease prediction model, 
- and developed AI course materials and proposals for AI-powered tools integration in various industries.
-  
-- Research Assistant at Exactitude Research Consultants - Conducted desktop research and data analysis for various projects, enhancing research findings.
+5. [Skin Cancer Segmentation](https://github.com/Risper8/Skin_Cancer_Segmentation) - Developed a U-NET model that focuses on the segmentation of skin cancer images to aid in the identification and analysis of cancerous lesions, achieving 95% accuracy
   
 ## Education
 
