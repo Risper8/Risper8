@@ -3,9 +3,6 @@
 ## About Me
 I'm a data enthusiast, data scientist, and aspiring Machine learning/AI Engineer based in Nairobi, Kenya. I'm passionate about leveraging data to drive insights and make informed decisions.
 
-While my expertise lies in data science and AI, I'm eager to explore new technologies like web3 to expand my skill set.
-
-
 ## Programming languages 
 - Python, R, SQL
   
@@ -42,5 +39,4 @@ Here are some of my notable projects:
 🔗 LinkedIn: [https://www.linkedin.com/in/risper-ndirangu/](https://www.linkedin.com/in/risper-ndirangu/)
 
 
-Let's connect and discuss fascinating opportunities at the intersection of data science, AI, mobile development, and Web3!
 
