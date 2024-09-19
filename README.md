@@ -18,7 +18,7 @@ Here are some of my notable projects:
    
 2. [Churn Prediction](https://github.com/Risper8/Churn-Prediction)- Utilized Python and machine learning techniques to predict churn using data from a telecommunication company
    
-3. [NLP Prediction model](https://github.com/Risper8/NLP-Skin-Disease) -  Developed a model using sentence transformers to predict skin diseases and associated symptoms based on user input.
+3. [YOUR AI CHATBOTl](https://github.com/Risper8/YOURAI_RAGCHAT) -  Your AI Chat is a Retrieval-Augmented Generation (RAG) application designed to help learners understand artificial intelligence (AI) in depth by answering questions about AI concepts.
 
 4. [Skin Cancer Image Classification](https://github.com/Risper8/Skin-Cancer-Prediction) - fine-tuned EfficientNetB0 pretrained model for skin cancer classification, achieving 86% accuracy for cancer type prediction and 92% for severity (malignant vs. benign).
    
