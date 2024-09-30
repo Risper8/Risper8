@@ -10,7 +10,7 @@ I'm a data enthusiast, data scientist, and Machine learning Engineer based in Na
 TensorFlow, Keras, PyTorch, Scikit-Learn, Hugging Face Transformers
 
 ## Tools: 
-Git, Docker, Postman, Jupyter Notebook, Google Colab
+Git, Docker, Postman, Jupyter Notebook, Google Colab, VS Code
 
 ## Projects
 Here are some of my notable projects:
