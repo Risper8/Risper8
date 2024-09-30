@@ -7,10 +7,10 @@ I'm a data enthusiast, data scientist, and Machine learning Engineer based in Na
 - Python, R, SQL
   
 ## Frameworks & Libraries: 
-TensorFlow, Keras, PyTorch, Scikit-Learn, pandas, NumPy, Transformers 
+TensorFlow, Keras, PyTorch, Scikit-Learn, Hugging Face Transformers
 
 ## Tools: 
-Beautiful Soup, Selenium, Tableau, Jupyter Notebook, Google Colab, Git
+Git, Docker, Postman, Jupyter Notebook, Google Colab
 
 ## Projects
 Here are some of my notable projects:
@@ -24,7 +24,7 @@ Here are some of my notable projects:
    
 5. [Skin Cancer Segmentation](https://github.com/Risper8/Skin_Cancer_Segmentation) - Developed a U-NET model that focuses on the segmentation of skin cancer images to aid in the identification and analysis of cancerous lesions, achieving 95% accuracy
    
-6. [Body_part classification](https://github.com/Risper8/Body-Parts-Classification) - This is a prediction model that can predict the body parts of a human being from images, achieving 91% accuracy
+6. [Mandarin Learning Chatbot](https://github.com/Risper8/Mandarin_chatbot) - The chatbot is designed to simulate real-life conversations in Mandarin, aiding in language practice and fluency.
   
 ## Education
 
