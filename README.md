@@ -14,17 +14,17 @@ Git, Docker, Postman, Jupyter Notebook, Google Colab, VS Code
 
 ## Projects
 Here are some of my notable projects:
-1. [Predicting US Home Prices](https://github.com/Risper8/Home-Prices-in-US) - Utilized Python and machine learning techniques to predict home prices in the US over the past 20 years.
-   
-2. [Churn Prediction](https://github.com/Risper8/Churn-Prediction)- Utilized Python and machine learning techniques to predict churn using data from a telecommunication company
-   
-3. [YOUR AI CHATBOT](https://github.com/Risper8/YOURAI_RAGCHAT) -  Your AI Chat is a Retrieval-Augmented Generation (RAG) application designed to help learners understand artificial intelligence (AI) in depth by answering questions about AI concepts.
+1. [YOUR AI CHATBOT](https://github.com/Risper8/YOURAI_RAGCHAT) -  Your AI Chat is a Retrieval-Augmented Generation (RAG) application designed to help learners understand artificial intelligence (AI) in depth by answering questions about AI concepts.
 
-4. [Skin Cancer Image Classification](https://github.com/Risper8/Skin-Cancer-Prediction) - fine-tuned EfficientNetB0 pretrained model for skin cancer classification, achieving 86% accuracy for cancer type prediction and 92% for severity (malignant vs. benign).
+2. [Skin Cancer Image Classification](https://github.com/Risper8/Skin-Cancer-Prediction) - fine-tuned EfficientNetB0 pretrained model for skin cancer classification, achieving 86% accuracy for cancer type prediction and 92% for severity (malignant vs. benign).
    
-5. [Skin Cancer Segmentation](https://github.com/Risper8/Skin_Cancer_Segmentation) - Developed a U-NET model that focuses on the segmentation of skin cancer images to aid in the identification and analysis of cancerous lesions, achieving 95% accuracy
+3. [Skin Cancer Segmentation](https://github.com/Risper8/Skin_Cancer_Segmentation) - Developed a U-NET model that focuses on the segmentation of skin cancer images to aid in the identification and analysis of cancerous lesions, achieving 95% accuracy
    
-6. [Mandarin Learning Chatbot](https://github.com/Risper8/Mandarin_chatbot) - The chatbot is designed to simulate real-life conversations in Mandarin, aiding in language practice and fluency.
+4. [Zindi Challenges](https://github.com/Risper8/Zindi-Challenges) - This is a repository that contains the notebooks for the challenges I have participated on Zindi. Still in progress.
+   
+5. [Predicting US Home Prices](https://github.com/Risper8/Home-Prices-in-US) - Utilized Python and machine learning techniques to predict home prices in the US over the past 20 years.
+   
+6. [Churn Prediction](https://github.com/Risper8/Churn-Prediction)- Utilized Python and machine learning techniques to predict churn using data from a telecommunication company
   
 ## Education
 
