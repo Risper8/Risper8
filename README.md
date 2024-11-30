@@ -15,15 +15,15 @@ Git, Docker, Postman, Jupyter Notebook, Google Colab, VS Code
 ## Projects
 Here are some of my notable projects:
 1. [YOUR AI CHATBOT](https://github.com/Risper8/YOURAI_RAGCHAT) -  Your AI Chat is a Retrieval-Augmented Generation (RAG) application designed to help learners understand artificial intelligence (AI) in depth by answering questions about AI concepts.
+   
+2. [Medical Note Extraction - H2O GenAI World NY](https://github.com/Risper8/Medical-Note-Extraction-H2O-GenAI-) - This challenge by H2O focused on transforming medical notes into a structured JSON format, making the data more accessible and easier to analyze.
 
-2. [Skin Cancer Image Classification](https://github.com/Risper8/Skin-Cancer-Prediction) - fine-tuned EfficientNetB0 pretrained model for skin cancer classification, achieving 86% accuracy for cancer type prediction and 92% for severity (malignant vs. benign).
+3. [Zindi Challenges](https://github.com/Risper8/Zindi-Challenges) - This is a repository that contains the notebooks for the challenges I have participated on Zindi. Still in progress.
+
+4. [Skin Cancer Image Classification](https://github.com/Risper8/Skin-Cancer-Prediction) - fine-tuned EfficientNetB0 pretrained model for skin cancer classification, achieving 86% accuracy for cancer type prediction and 92% for severity (malignant vs. benign).
    
-3. [Skin Cancer Segmentation](https://github.com/Risper8/Skin_Cancer_Segmentation) - Developed a U-NET model that focuses on the segmentation of skin cancer images to aid in the identification and analysis of cancerous lesions, achieving 95% accuracy
-   
-4. [Zindi Challenges](https://github.com/Risper8/Zindi-Challenges) - This is a repository that contains the notebooks for the challenges I have participated on Zindi. Still in progress.
-   
-5. [Predicting US Home Prices](https://github.com/Risper8/Home-Prices-in-US) - Utilized Python and machine learning techniques to predict home prices in the US over the past 20 years.
-   
+5. [Skin Cancer Segmentation](https://github.com/Risper8/Skin_Cancer_Segmentation) - Developed a U-NET model that focuses on the segmentation of skin cancer images to aid in the identification and analysis of cancerous lesions, achieving 95% accuracy
+  
 6. [Churn Prediction](https://github.com/Risper8/Churn-Prediction)- Utilized Python and machine learning techniques to predict churn using data from a telecommunication company
   
 ## Education
