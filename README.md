@@ -1,7 +1,7 @@
 # Hi there, I'm Risper Ndirangu! 👋
 
 ## About Me
-I'm a Data Scientist and AI/ML Engineer based in Nairobi, Kenya. I’m passionate about creating and developing machine learning and AI systems, one line of code at a time.
+I'm an AI/ML Engineer based in Nairobi, Kenya. I’m passionate about creating and developing machine learning and AI systems.
 
 ## Programming languages 
 - Python, R, SQL
@@ -13,7 +13,7 @@ TensorFlow, Keras, PyTorch, Scikit-Learn, Hugging Face Transformers
 Git, Docker, Postman, Jupyter Notebook, Google Colab, VS Code, Chromadb
 
 ## Projects
-Here are some of my notable projects:
+Here are some of my projects:
 1. [YOUR AI CHATBOT](https://github.com/Risper8/YOURAI_RAGCHAT) -  Your AI Chat is a Retrieval-Augmented Generation (RAG) application designed to help learners understand artificial intelligence (AI) in depth by answering questions about AI concepts.
 
 2. [Computer Vision Projects](https://github.com/Risper8/Computer-Vision-Projects) - This is a repository that contains a portfolio of my computer vision projects. This includes image classification, image segmentation, and object detection. It's a work in progress.
