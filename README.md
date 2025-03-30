@@ -14,7 +14,7 @@ Git, Docker, Postman, Jupyter Notebook, Google Colab, VS Code, Chromadb
 
 ## Projects
 Here are some of my projects:
-1. [YOUR AI CHATBOT](https://github.com/Risper8/YOURAI_RAGCHAT) -  Your AI Chat is a Retrieval-Augmented Generation (RAG) application designed to help learners understand artificial intelligence (AI) in depth by answering questions about AI concepts.
+1. [YOUR AI CHATBOT](https://github.com/Risper8/Agents) -  This is a repository that contains a portfolio of my Agents projects. This includes LLM Agents and RAG. It's a work in progress.
 
 2. [Computer Vision Projects](https://github.com/Risper8/Computer-Vision-Projects) - This is a repository that contains a portfolio of my computer vision projects. This includes image classification, image segmentation, and object detection. It's a work in progress.
 
