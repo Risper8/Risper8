@@ -27,6 +27,8 @@ Here are some of my projects:
 - Bachelor of Science degree in Statistics and Programming from Kenyatta University 
   
 - KCB Data Science and AI Training Program -  I completed a 4-month data science and AI program, earning a certificate. The program covered various aspects of artificial intelligence, machine learning, and deep learning.
+  
+- Agentic AI MOOC Fall 2025 by UC Berkeley - I completed a course on Agentic AI, focusing on building autonomous AI agents, tool-using LLM systems, and agent-based architectures for real-world applications.
 
 
 ## Get In Touch
